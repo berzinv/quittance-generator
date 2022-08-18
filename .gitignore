@@ -1,0 +1,9 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+*.pdf
+*.jpg
+*.png

@@ -1,0 +1,37 @@
+{
+    "proprietaire": {
+        "nom": "John SMITH",
+        "adresse": "16 rue de la Charette",
+        "cp": "44000",
+        "ville": "Nantes",
+        "email": "proprio@proprio.com",
+        "signature": "signature.jpg"
+    },
+    "logements": [{
+        "locataire": {
+	    "nom": "Bozo le Clown",
+            "adresse": "12 rue des pommes",
+            "cp": "44800",
+	    "ville": "Saint-Herblain",
+	    "e-mail": "test@test.com"
+	},
+	"adresse": "12 rue des toto",
+	"cp": "44000",
+	"ville": "Nantes",
+        "loyer": 500,
+        "charges": 50
+    }, {
+        "locataire": {
+            "nom": "Jo la Débrouille",
+            "adresse": "15 rue de la brousse",
+            "cp": "44000",
+            "ville": "Nantes",
+            "e-mail": "toto@test.com"
+        },
+        "adresse": "17 rue du bois",
+        "cp": "44000",
+        "ville": "Nantes",
+        "loyer": 600,
+        "charges": 50
+    }]
+}
